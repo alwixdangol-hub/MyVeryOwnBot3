@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "Bot1": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "alwixdangol-kS7F.aternos.me:64792",
+    "port":64792,
     "version": "",
     "try-creative": false
   },
